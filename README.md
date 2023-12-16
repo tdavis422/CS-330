@@ -1,1 +1,7 @@
 # CS-330
+
+I approach software design in a way some people don't understand because I vary in how I design. There are times I will write all of the code before testing, and there are times I write each section and test it separately before integrating it all together. For this project, I wrote all of the code first and then started to test and rework the objects to make sure that they looked as accurate as possible to ensure that everything worked correctly before submission. One tactic that I could apply to future work is the amount of testing and trial and error I went through with the objects sometimes deciding not to render in orthographic projection due to a simple coding error.
+
+I approach development in the same way as software design, it just depends on how the customer that is asking for the program acts sometimes. Iteration was a big factor in the project because I could use previous iterations to figure out what could be going wrong with the program to allow myself to fix the issues before proceeding with the rest of the project.
+
+Computer science is the reason I want to go into software development, and a degree in it will help me ensure I can get a good paying job to allow my family to have a better life than I did when I was younger. Computational Graphics and Visualization gave me insight on how to be able to render objects inside OpenGL if there is ever a time I need to design something to be able to show a customer or even a friend.
